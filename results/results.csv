@@ -1,0 +1,4 @@
+scenario,avg_wait_time,total_transported
+Baseline,26.862067419558173,400
+Extra Bus,7.433172215749982,482
+High Capacity,17.176394899014134,482
