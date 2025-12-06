@@ -3,7 +3,7 @@
 A discrete-event simulation (DES) of a university bus stop using Python and SimPy.
 
 ## Overview
-This project models student arrivals during morning peak hours and simulates the bus boarding process. It allows comparing different scenarios (e.g., adding buses, increasing capacity) to optimize waiting times.
+This project models student arrivals during  peak hours and simulates the bus boarding process. It allows comparing different scenarios (e.g., adding buses, increasing capacity) to optimize waiting times.
 
 ## Architecture
 - **data/**: Contains synthetic arrival data.
