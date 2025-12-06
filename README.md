@@ -12,7 +12,7 @@ The project features a **high-end interactive dashboard** that allows university
 ---
 
 ## 🚀 Key Features
-*   **Real-time Simulation**: Powered by `simpy` to model every second of the morning rush.
+*   **Real-time Simulation**: Powered by `simpy` to model every second of the rush.
 *   **Interactive Dashboard**: A futuristic 3D Neumorphic UI built with `streamlit`.
 *   **Scenario Testing**: Compare "Baseline" vs. "Extra Bus" vs. "High Capacity" strategies.
 *   **Advanced Analytics**:
